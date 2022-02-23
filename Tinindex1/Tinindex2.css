@@ -1,0 +1,79 @@
+.boxcenter{
+    width: 70%;
+    margin: 0 auto;
+    font-family: Arial;
+}
+.row{
+    float: left;
+    width: 100%;
+
+}
+header{
+    background-image: url("../Anh logo banner/banner.png");
+    min-height: 400px;
+    
+
+}
+header>img{
+    border-radius: 5px;
+    width: 181px;
+    height: 33px;
+}
+nav{
+  
+    background-color: black;
+    min-height: 40px;
+    border-radius: 5px;
+
+}
+nav>a{
+    color: white;
+    padding: 5px;
+}
+article{
+    
+    float: left;
+    width: 70%;
+    background-color: rgb(182, 182, 182);
+    min-height: 400px;
+    border-radius: 5px;
+}
+article>img{
+    width: 640px;
+    height: 427px;
+    border-radius: 5px;
+
+}
+article>b{
+    font-size: 30px;
+}
+aside{
+    float: left;
+    width: 30%;
+    min-height: 400px;
+    background-color: rgb(238, 197, 143);
+}
+aside>p>img{
+    width: 100px;
+    height: 100px;
+}
+footer{
+    border-radius: 5px;
+    background-color: black;
+    min-height: 60px;
+}
+footer>img{
+    width: 181px;
+    height: 33px;
+}
+footer>p{
+    color: white;
+    font-size: 10px;
+}
+footer>a{
+    float: right;
+    color: white;
+    padding: 5px;
+  
+    
+}
